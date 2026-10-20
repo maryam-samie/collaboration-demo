@@ -13,3 +13,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 3. Make your changes and commit them.
 4. Open a pull request.
 5. Address review feedback.
+6. Check the pull request and CI results before merging.

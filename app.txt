@@ -1,3 +1,5 @@
 Collaboration Demo Project
 Version 1.0
+Feature:
+This project demonstrates a simple collaborative development workflow.
 
